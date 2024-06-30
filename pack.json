@@ -19,7 +19,7 @@
     "ui_steam_message_old_smooth.m4a",
     "ui_steam_smoother_friend_join.m4a",
     "ui_steam_smoother_friend_online.m4a"
-]
+  ]
   "mappings": {
     "deck_ui_achievement_toast.wav": ["UI_ItemGet!.wav"],
     "deck_ui_bumper_end_02.wav": ["UI_Bumper.wav"],
